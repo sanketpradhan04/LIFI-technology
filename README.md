@@ -1,2 +1,2 @@
 # LIFI-technology
-LIFI technology for data transfer
+LIFI technology using sustainable energy
